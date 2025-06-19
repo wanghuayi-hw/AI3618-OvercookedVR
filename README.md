@@ -38,6 +38,6 @@
 
 ```bash
 # Clone this repository
-git clone https://github.com/your-name/OvercookedVR.git
+git clone https://github.com/wanghuayi-hw/AI3618-OvercookedVR.git
 
 # Open the project with Unity Hub
